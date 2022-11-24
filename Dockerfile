@@ -6,7 +6,9 @@
 
 FROM centos
 
-MAINTAINER hello@gritfy.com
+MAINTAINER myemail@gmail.com
+
+
 
 RUN mkdir /opt/tomcat/
 
