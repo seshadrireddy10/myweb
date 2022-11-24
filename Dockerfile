@@ -11,7 +11,7 @@
 
 FROM centos
 
-MAINTAINER hello@gritfy.com
+MAINTAINER reddy@gmail.com
 
 RUN mkdir /opt/tomcat/
 
